@@ -1,3 +1,3 @@
 # chess-system-java
 Sistema de xadrez desenvolvido em JAVA.
-<img src="C:/Users/Eduardo/Desktop/sistema-xadrez.jpg">
+![Sistema de Xadrez](https://github.com/dueduardoful/chess-system-java/blob/master/sistema-xadrez.jpg)
